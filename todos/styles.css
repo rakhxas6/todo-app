@@ -1,0 +1,46 @@
+.container {
+  margin: 0 auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+input[type="text"] {
+  font-size: 24px;
+  padding: 10px;
+  width: 80%;
+  outline: none;
+}
+
+button {
+  margin-left: 10px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  color: #333;
+  font-size: 24px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
